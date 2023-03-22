@@ -1,7 +1,6 @@
 import ReactApexChart from 'react-apexcharts';
 
 
-type State = {}
 type SemiCircleChart = {
     // number should be between -1 and 1
   number: number;
