@@ -1,4 +1,5 @@
 import ReactApexChart from 'react-apexcharts';
+import { ApexOptions } from "apexcharts";
 
 
 type SemiCircleChart = {
@@ -13,11 +14,7 @@ function SemiCircleCard(props: SemiCircleChart) {
 
     const series = [percentage]
 
-    const options ={
-        chart: {
-          // height: 280,
-          type: "radialBar",
-        },
+    const options : ApexOptions ={
         series: [67],
         colors: ["#7f70ab", "#bc5c22"],
         plotOptions: {
@@ -91,7 +88,7 @@ function SemiCircleCard(props: SemiCircleChart) {
     return (
 
         <div id="chart" >
-            <ReactApexChart options={options} series={series} type="radialBar"/>
+            <ReactApexChart type="radialBar" options={options} series={series} />
         </div >
 
 

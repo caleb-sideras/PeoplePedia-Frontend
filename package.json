@@ -5,12 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc --noEmitOnError && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
     "@fontsource/roboto": "^4.5.8",
-    "apexcharts": "^3.37.1",
+    "apexcharts": "^3.37.2",
     "react": "^18.2.0",
     "react-apexcharts": "^1.4.0",
     "react-dom": "^18.2.0",
