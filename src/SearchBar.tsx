@@ -39,7 +39,7 @@ export default function SearchBar(props: SearchProps) {
       body: JSON.stringify(data),
     };
 
-    fetch("https://getme.herokuapp.com/", requestOptions)
+    fetch("https://getme.herokuapp.com/query", requestOptions)
       .then((response) => {
         if (!response.ok) {
           throw (response);
