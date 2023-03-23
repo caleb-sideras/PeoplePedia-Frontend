@@ -55,11 +55,10 @@ export default function Home(props: Props) {
           }}>
           <div className='flex-col items-center text-white m-4 flex max-w-5xl text-center justify-center min-h-full'>
             <h1 className="font-extrabold mb-6 tracking-wide md:text-9xl text-6xl">
-              Find Anyone
+              People Pedia
             </h1>
             <div className='md:text-xl text-lg max-w-3xl mb-4'>
-              AI powered search that finds and summerizes information for anyone on the internet. Enter a name below!
-            </div>
+              AI powered search that summarizes and visualizes information for an anyone who has data on the internet. Enter a name below!</div>
             <SearchBar data={data} onDataChange={handleDataChange}/>
           </div>
         </div>
