@@ -83,7 +83,7 @@ export default function SearchBar(props: SearchProps) {
       <input
         type="text"
         maxLength={25}
-        className="flex-grow ml-2 outline-none text-gray-800 placeholder-gray-500 font-medium text-lg rounded-lg focus:ring-indigo-600 focus:border-indigo-600 border-transparent transition duration-[300ms]"
+        className=" w-full ml-2 outline-none text-gray-800 placeholder-gray-500 font-medium text-lg rounded-lg focus:ring-indigo-600 focus:border-indigo-600 border-transparent transition duration-[300ms]"
         placeholder="Search..."
         value={query}
         onChange={handleInputChange}
