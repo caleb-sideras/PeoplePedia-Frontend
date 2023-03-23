@@ -58,7 +58,7 @@ export default function Home(props: Props) {
               People Pedia
             </h1>
             <div className='md:text-xl text-lg max-w-3xl mb-4'>
-              AI powered search that summarizes and visualizes information for an anyone who has data on the internet. Enter a name below!</div>
+              AI powered search that summarizes and visualizes information for anyone who has data on the internet. Enter a name below!</div>
             <SearchBar data={data} onDataChange={handleDataChange}/>
           </div>
         </div>
