@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/66019710/228404612-d4bacfc7-566a-476a-8619-5a019b86f508.png)
 
 
-<h2>Properties<h3>
+<h2>Properties</h2>
 <p>This JSON object returned from the back-end provides visuals based on various GPT-3.5 powered analysis.</p>
 <ul>
   <li><strong>age:</strong> a string representing the age of the person</li>
@@ -42,7 +42,7 @@
 </ul>
 
 
-<h2>Example Object<h2>
+<h2>Example Object</h2>
 <pre>{
 "age": "50",
 "analysis": [
