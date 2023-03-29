@@ -1,6 +1,7 @@
-<h1 href="https://aipeoplepedia.com/">PeoplePedia</h1>
+<h1>PeoplePedia</h1>
 <p>The front-end for PeoplePedia, an AI powered search that summarizes and visualizes information for anyone who has data on the internet.</p>
 
+[Visit PeoplePedia](https://aipeoplepedia.com/)
 ![image](https://user-images.githubusercontent.com/66019710/228403877-bea9568f-96d1-4897-b5e8-01dcece7a52e.png)
 ![image](https://user-images.githubusercontent.com/66019710/228404612-d4bacfc7-566a-476a-8619-5a019b86f508.png)
 
