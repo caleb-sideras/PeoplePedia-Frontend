@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="dart"  height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-[Visit PeoplePedia](https://aipeoplepedia.com/)
 ![image](https://user-images.githubusercontent.com/66019710/228403877-bea9568f-96d1-4897-b5e8-01dcece7a52e.png)
 ![image](https://user-images.githubusercontent.com/66019710/228404612-d4bacfc7-566a-476a-8619-5a019b86f508.png)
 
